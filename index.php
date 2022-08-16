@@ -1,4 +1,4 @@
 <?php
-echo "<h1><font color="red">Hello Manoj</h1></font>"
+echo "<h1>Hello Manoj Singh</h1>"
 
 ?>
