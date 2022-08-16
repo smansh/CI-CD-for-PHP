@@ -1,5 +1,4 @@
 <?php
-echo "<h1>Buid trigger2 using curl  Manoj Kumar Singh</h1>"
-
+echo "<h1> <font color=blue>Build Trigger using hook when changed in github and deploy to server</font> </h1>";
 
 ?>
