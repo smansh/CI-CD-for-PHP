@@ -1,4 +1,4 @@
 <?php
-echo "<h1>Hello Manoj Kumar Singh</h1>"
+echo "<h1>Welcome Manoj Kumar Singh</h1>"
 
 ?>
